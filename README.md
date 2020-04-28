@@ -1,5 +1,5 @@
 # Bipolar-Factory
-Kindly refer my resume : https://drive.google.com/file/d/1ulgaOA2cN2JwPELb1UB9kW0uJKKttatk/view?usp=sharin
+Kindly refer my resume : https://drive.google.com/file/d/1ulgaOA2cN2JwPELb1UB9kW0uJKKttatk/view?usp=sharing
 # Theory
 Virality : virality has varied number of meanings and virality of facebook post depends on various number of factors. Here i have tried to define virality as number of times a news post has been shared by the users. 
 
