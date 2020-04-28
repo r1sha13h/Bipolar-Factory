@@ -38,3 +38,5 @@ DNN is able to provide a fairly high accuracy (over 80%)
 1. Execute collect_data.py - scrapes news from facebook pages of popular News companies, processs it and converts the data in .csv format, **you dont need to execute this file** as .csv file is available directly to us for analysis.
 
 2. Execute virality_predictor.py - Predicts number of shares of news post on a FB page and compares it with actual number of shares. It directly accesses the new.csv file that was created after scraping FB news pages. **You only need to execute this**.
+
+3. Data is present in news.csv file
