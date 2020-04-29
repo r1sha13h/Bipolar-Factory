@@ -1,6 +1,9 @@
 # Bipolar-Factory
 Kindly refer my resume : https://drive.google.com/file/d/1ulgaOA2cN2JwPELb1UB9kW0uJKKttatk/view?usp=sharing
 
+# Note
+Number of shares/likes/comments on a post on FB will be different from that mentioned in the data because data was extracted few days back, since then more people may have liked, viewed, shared and commented on the post.
+
 # Steps to follow
 
 1. Execute collect_data.py - scrapes news from facebook pages of popular News companies, processs it and converts the data in .csv format, **you dont need to execute this file** as .csv file is available directly to us for analysis.
